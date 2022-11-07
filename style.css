@@ -1,68 +1,48 @@
-/* universal - tags */
-
-
 body{
-
-	background-color: #faf8da;
-	font-family: 'Alkalami', serif;
-	font-family: 'Poppins', sans-serif;
-	font-family: 'Roboto', sans-serif;
+background-color: #faf8da;
+font-family: 'Gemunu Libre', sans-serif;
 }
 
-/* header styling start */
+footer{
+background-color:#ffc122;
+text-align:center;
+color:black;
+padding:10px;
+font-size:20px;
+}
+
 header{
-	text-align: center;
+text-align: center;
+
 }
 
 h1{
-	color: #205d76;
-	font-size: 70px;
+    color: #205d76;
+    font-size:70px;
 }
 
-#header-img{
-	width: 650px;
-	border: 10px dashed red;
-	margin:200px ;
+#headerimg{
+   width:950px;
+    border:3px dotted #ffc122; 
+   margin:30px;
 }
 
-
-/* header styling end */
-
-
-/* main styling start */
-.store-section{
-	display:flex;
-	justify-content: center;
-}
 .main-img{
-	height: 200px;
-	width: 200px;
+    height:200px;
+    width:200px;
 }
 
 .main-heading{
-	color: #205d76;
-	font-size: 30px;
+    color:#205d76;
+    font-size:35px;
 }
 
 .main-text{
-	color: orange;
-	font-size: 25px;
-}
-/*main styling end*/
-
-
-
-/* footer styling start */
-
-footer{
-	background-color: rgb(139, 139, 13);
-	color: white;
-	text-align: center;
-	padding: 10px;
+color:orange;
+font-size:25px;
 }
 
-
-/* footer styling end */
-
-
-
+.storesection{
+display:flex;
+justify-content:center;
+}
