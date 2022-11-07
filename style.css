@@ -23,6 +23,7 @@ h1{
 
 #headerimg{
    width:950px;
+    border: 3px dashed red;
    margin:30px;
 }
 
