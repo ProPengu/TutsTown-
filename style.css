@@ -21,7 +21,7 @@ h1{
 
 #header-img{
 	width: 650px;
-	border: 10px solid red;
+	border: 10px dashed red;
 	margin:200px ;
 }
 
